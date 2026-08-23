@@ -1,5 +1,4 @@
+mitmdump.exe
 *.log
-__pycache__/
-*.pyc
 *.p12
-*.lnk
+__pycache__/
