@@ -16,4 +16,3 @@ def request(flow: http.HTTPFlow) -> None:
             b"",
             {"Location": TARGET_URL}
         )
-
